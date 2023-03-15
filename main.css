@@ -35,11 +35,11 @@
 
 body {
   background-color: rgb(240, 240, 240);
+  margin: 0;
 }
 
 .colorful {
   text-align: center;
-  text-decoration: underline;
   font-size: 32px;
   font-family: 'Patua One', cursive;
   letter-spacing: 5px;
@@ -74,6 +74,7 @@ body {
   background-size:100% 100%;
   background-repeat:no-repeat;
   width: 100%;
+  border:2px solid #666;
 }
 
 .content {
@@ -87,4 +88,9 @@ body {
 .section#s1 {
   background-image: url("scenergy teset.jpg");
   z-index:-5; 
+}
+
+.content#c1 {
+  color: black;
+  padding-left: 10px;
 }
