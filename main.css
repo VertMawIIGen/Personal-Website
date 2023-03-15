@@ -35,11 +35,11 @@
 
 body {
   background-color: rgb(240, 240, 240);
+  margin: 0;
 }
 
 .colorful {
   text-align: center;
-  text-decoration: underline;
   font-size: 32px;
   font-family: 'Patua One', cursive;
   letter-spacing: 5px;
@@ -51,7 +51,7 @@ body {
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-  animation: rainbow_animation 6s ease-in-out infinite;
+  animation: rainbow_animation 10s ease-in-out infinite;
   background-size: 400% 100%;
 }
 
@@ -63,4 +63,34 @@ body {
   50% {
       background-position: 100% 0;
   }
+}
+
+.section {        
+  position:relative;
+  z-index:1;
+  height:500px;
+  width:100%;
+  background-attachment:fixed;    /* this keeps the background in place */
+  background-size:100% 100%;
+  background-repeat:no-repeat;
+  width: 100%;
+  border:2px solid #666;
+}
+
+.content {
+  position:relative;
+  z-index:2;
+  background-color:#fff;
+  border:2px solid #666;
+  height:50%;    /* this height difference allows the bg to show through */ 
+}
+
+.section#s1 {
+  background-image: url("scenergy teset.jpg");
+  z-index:-5; 
+}
+
+.content#c1 {
+  color: black;
+  padding-left: 10px;
 }
