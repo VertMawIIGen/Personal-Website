@@ -1,5 +1,12 @@
-# Personal Website
+## Well, this is my personal (skilltest) website.
 
-Just a test of Github's capabilities, and also of my HTML skills.
+Nothing special here. Apparently it looks like it's from the 90s. And frankly I couldn't agree more.
 
-Someonebody commented that it looks like its from the 1990s. And frankly, I couldn't agree more.
+---
+
+Things I should do:
+ - [x] Fix the scrolling function.
+ - [ ] Change the homepage image.
+ - [ ] Add the information.
+ - [ ] Change the color scheme (The 1990s vibe won't cut it).
+ - [ ] Fix the navbar.
