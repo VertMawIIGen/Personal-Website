@@ -6,7 +6,7 @@ Nothing special here. Apparently it looks like it's from the 90s. And frankly I 
 
 Things I should do:
  - [x] Fix the scrolling function.
- - [ ] Change the homepage image.
+ - [x] Change the homepage image.
  - [ ] Add the information.
  - [ ] Change the color scheme (The 1990s vibe won't cut it).
  - [ ] Fix the navbar.
