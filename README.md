@@ -8,5 +8,5 @@ Things I should do:
  - [x] Fix the scrolling function.
  - [x] Change the homepage image.
  - [ ] Add the information.
- - [ ] Change the color scheme (The 1990s vibe won't cut it).
- - [ ] Fix the navbar.
+ - [x] Change the color scheme (The 1990s vibe won't cut it).
+ - [x] Fix the navbar.
