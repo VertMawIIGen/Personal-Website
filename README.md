@@ -7,6 +7,9 @@ Nothing special here. Apparently it looks like it's from the 90s. And frankly I 
 Things I should do:
  - [x] Fix the scrolling function.
  - [x] Change the homepage image.
- - [ ] Add the information.
  - [x] Change the color scheme (The 1990s vibe won't cut it).
  - [x] Fix the navbar.
+ - [ ] Add the information.
+ - [ ] Add more sections.
+ - [ ] Make the navbar actually functionable.
+ - [ ] Make website more aesthetic?
