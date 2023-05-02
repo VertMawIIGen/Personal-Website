@@ -1,6 +1,6 @@
 ## Well, this is my personal (skilltest) website.
 
-Nothing special here. Apparently it looks like it's from the 90s. And frankly I couldn't agree more.
+Nothing **special** here. Apparently it looks like it's from the 90s. And frankly I couldn't agree more.
 
 ---
 
