@@ -9,8 +9,8 @@ Things I should do:
  - [x] Change the homepage image.
  - [x] Change the color scheme (The 1990s vibe won't cut it).
  - [x] Fix the navbar.
- - [x] Fix scaling.
+ - [x] Fix scaling (well, partially at least).
  - [ ] Add the information.
  - [ ] Add more sections.
- - [ ] Make the navbar actually functionable.
+ - [ ] Make the navbar actually functional.
  - [ ] Make website more aesthetic?

@@ -37,10 +37,7 @@ nav {
 nav ul li{
     display: inline-block;
     list-style: none;
-    margin-top: calc(7px + 1.5vw);
-    margin-bottom: calc(7px + 1.5vw);
-    margin-left: calc(7px + 1.5vw);
-    margin-right: calc(7px + 1.5vw);
+    margin: calc(7px + 1.5vw);
 }
 
 nav ul li a{
@@ -159,6 +156,7 @@ hr {
 
 footer p {
     margin-top: 10px;
+    font-size: calc(7px + 0.8vw);
 }
 
 footer ul li {
@@ -170,7 +168,22 @@ footer ul li {
 footer ul li a{
     text-decoration: none;
     color: black;
-    font-size: 16px;
+    font-size: calc(7px + 0.85vw);
     position: relative;
     margin-right: 45px;
+}
+
+footer ul li a::after {
+    content: '';
+    width: 0;
+    height: 3px;
+    background: black;
+    position: absolute;
+    left: 0;
+    bottom: -6px;
+    transition: 0.5s;
+}
+
+footer ul li a:hover::after {
+    width: 100%;
 }
